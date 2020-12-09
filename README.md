@@ -13,5 +13,5 @@
 * SASS
 * Git
 
-[<img src="https://i.ibb.co/5jyLjN2/Group-3.png" width="220"/>](https://www.linkedin.com/in/sebasvil20/){:target="_blank" rel="noopener"}
-[<img src="https://i.ibb.co/0tp7xNW/Group-1.png" width="220"/>](https://sebasvil20.github.io/){:target="_blank" rel="noopener"}
+[<img src="https://i.ibb.co/5jyLjN2/Group-3.png" width="220"/>](https://www.linkedin.com/in/sebasvil20/)
+[<img src="https://i.ibb.co/0tp7xNW/Group-1.png" width="220"/>](https://sebasvil20.github.io/)

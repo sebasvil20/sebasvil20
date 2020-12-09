@@ -1,4 +1,4 @@
-### Hello World! I'm Sebastian
+### Hello World! Welcome to my personal GitHub 🤠
 <img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='200'>
 
 #### I'm an in progress developer 🤓

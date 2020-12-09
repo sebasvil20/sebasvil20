@@ -13,5 +13,5 @@
 * SASS
 * Git
 
-[![](https://i.ibb.co/TMfYsWh/Group-1.png)](https://github.com/user/repository/subscription)
-[![](https://i.ibb.co/74dWWyx/Group-2.png)](https://github.com/user/repository/subscription)
+[![](https://i.ibb.co/4t1XPPh/Group-1.png)](https://github.com/user/repository/subscription)
+[![](https://i.ibb.co/PNn7H7G/Group-3.png)](https://github.com/user/repository/subscription)

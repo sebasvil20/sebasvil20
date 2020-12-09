@@ -13,5 +13,5 @@
 * SASS
 * Git
 
-[<img src="https://i.ibb.co/5jyLjN2/Group-3.png" width="100"/>](https://github.com/user/repository/subscription)
-[<img src="https://i.ibb.co/0tp7xNW/Group-1.png" width="100"/>](https://github.com/user/repository/subscription)
+[<img src="https://i.ibb.co/5jyLjN2/Group-3.png" width="200"/>](https://github.com/user/repository/subscription)
+[<img src="https://i.ibb.co/0tp7xNW/Group-1.png" width="200"/>](https://github.com/user/repository/subscription)

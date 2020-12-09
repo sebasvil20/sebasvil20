@@ -1,4 +1,4 @@
-### Hi there 👋 I'll show you in a gif what I'm doing everyday
+### Hello World! I'm Sebastian
 <img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='200'>
 
 #### I'm an in progress developer 🤓

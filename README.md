@@ -6,9 +6,13 @@
 ## What can I do? 🧐
 
 * JavaScript
-* React.js
+* React.Js
+* Next.JS
 * Node Js
+* SQL
 * MongoDB
+* .Net
+* EntityFramework
 * HTML + CSS
 * SASS
 * Git

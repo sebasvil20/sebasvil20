@@ -7,9 +7,9 @@
 
 * JavaScript
 * React.Js
-* Next.JS
-* Node Js
-* SQL
+* Next.Js
+* Node.Js
+* SQL (SQL server, MySQL, mariaDB)
 * MongoDB
 * .Net
 * EntityFramework

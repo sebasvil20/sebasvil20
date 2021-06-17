@@ -2,13 +2,27 @@
 <p align="center">
   Full-stack web developer 💻
 </p>
+ 
+-----
+### Get in touch
 
-- 🌱 I’m currently learning and focusing in backend development with .Net, NodeJs and Python.
+  [![Website](https://img.shields.io/badge/-Website-3776AB?style=flat-square)](https://sebasvil20.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3776AB?style=flat-square)](https://www.linkedin.com/in/sebasvil20/)
+  
+### My favorites stacks
+- MERN 
+- LAMP
+
+### Tech
+- Git
+- Docker
+- Strapi
+- Contenful
+- WordPress
+- SQL Server
+- MngoDB
 
 -----
-[![Website](https://img.shields.io/website?label=Personal%Website&style=for-the-badge&url=https%3A%2F%2Fsebasvil20.github.io)](https://sebasvil20.github.io)
-
-
 ### 🏆 Github Stats
 
 <img  src="https://github-readme-stats.vercel.app/api?username=sebasvil20&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >

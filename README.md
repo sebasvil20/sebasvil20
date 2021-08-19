@@ -9,7 +9,7 @@
   [![Website](https://img.shields.io/badge/-Website-3776AB?style=flat-square)](https://sebasvil20.github.io/)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3776AB?style=flat-square)](https://www.linkedin.com/in/sebasvil20/)
   
-### My favorites stacks
+### My favorite stacks
 - MERN 
 - LAMP
 

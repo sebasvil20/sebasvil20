@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Sebastian.</h1>
+<h2 align="center">👋 Hello! I'm Sebastian.</h2>
 <p align="center">
   Full-stack web developer 💻
 </p>

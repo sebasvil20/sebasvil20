@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Sebastian.</h2>
 <p align="center">
-  Software Developer 💻 at MercadoLibre
+  Software Developer 💻  at MercadoLibre
 </p>
  
 -----

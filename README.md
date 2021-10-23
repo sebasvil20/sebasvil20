@@ -6,13 +6,13 @@
 -----
 <h3 align="center">Get in touch ✅ </h3>
 
+<div align="center">
   [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sebasvil20.github.io/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasvil20/)
-
+</div>
 
 -----
-<h3 align="center">
-Languages and Tools: </h3>
+<h3 align="center">Languages and Tools: </h3>
 
 <h4 align="center">Currently working with</h4>
 
@@ -24,6 +24,7 @@ Languages and Tools: </h3>
 </div>
 
 <h4 align="center">I've worked with</h4>
+
 <div align="center">
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)

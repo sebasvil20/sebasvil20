@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hello! I'm Sebastian.</h2>
+<h2 align="center">👋 Hello! I'm Juanse</h2>
 <p align="center">
-  Software Engineer at MercadoLibre 💻 <br><br> Problem solver, code lover and the right fit for what you are looking for 
+  Software Engineer @ MercadoLibre 💻 <br><br> Problem solver, code lover and the right fit for what you are looking for 
 </p>
  
 -----
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sebasvil20.github.io/)
+  [![Website Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juansetech.co/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasvil20/)
   
 </div>

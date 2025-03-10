@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Juanse</h2>
 <p align="center">
-  Software Engineer @ MercadoLibre 💻 <br><br> Problem solver, code lover and the right fit for what you are looking for 
+  Sr. Software Engineer @ MercadoLibre 💻 <br><br> Problem solver, code lover and the right fit for what you are looking for 
 </p>
  
 -----
